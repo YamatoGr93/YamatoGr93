@@ -1,73 +1,144 @@
-# Daily Learning Plan (October 21, 2024 - June 30, 2025)
+# Learning and Development Journey
 
-## Phase 1: Penetration Testing Learning Plan (Today - January 31, 2025)
+Welcome to my GitHub profile! I am currently pursuing an intensive learning plan focused on enhancing my skills in software engineering, cybersecurity, and cloud technologies. This document outlines my comprehensive learning plan from November 1, 2024, to April 1, 2025.
 
-**Duration**: October 21, 2024 - January 31, 2025  
-**Daily Commitment**: **1.5 hours** (focused on TryHackMe first, then Hack The Box)
+## Weekly Course Structure
 
-### Part 1: TryHackMe Learning (October 21, 2024 - December 31, 2024)
-
-- **Daily Schedule (1.5 hours)**:
-  - **Complete one room daily** from the following learning paths:
-    - Pre-Security
-    - Intro to Cyber Security
-    - Web Fundamentals
-    - Junior Penetration Tester
-  - **Engage with content, take notes, and participate in discussions** to deepen understanding.
-
-### Part 2: Hack The Box Learning (January 1 - January 31, 2025)
-
-- **Daily Schedule (1.5 hours)**:
-  - **Complete one module/challenge daily** from the Hack The Box Penetration Tester job learning path.
-  - **Document learnings and reflect on challenges faced and solutions discovered.**
+- **Monday:** Software Engineering (Angular, Go, JavaScript, TypeScript)
+- **Tuesday:** Security Learning
+- **Wednesday:** Penetration Testing
+- **Thursday:** OSCP Preparation
+- **Friday:** Google Cloud Learning (switches to Research upon certification completion)
+- **Weekend:** Practical Application Course (Projects & Exam Preparation)
 
 ---
 
-## Phase 2: WebApp Developer Learning Plan (February 1 - April 30, 2025)
+## Detailed Course Objectives
 
-**Duration**: February 1, 2025 - April 30, 2025  
-**Daily Commitment**: **1.5 hours**
+### Software Engineering Course (Monday)
 
-### Daily Schedule:
-- **HTML/CSS/JavaScript (Mozilla Docs) (30 Minutes)**:
-  - **Focus on fundamentals and engage with interactive tutorials.**
-  - **Complete exercises and build small projects.**
-  
-- **React and Redux (30 Minutes)**:
-  - **Learn the core concepts of React and Redux through documentation and tutorials.**
-  - **Build small applications to practice.**
+#### November
+- **Objective:** Establish fundamentals of Angular, Go, JavaScript, and TypeScript.
+- **Topics:** Language basics, component-based design (Angular), simple API interactions, and TypeScript type-safety.
 
-- **Backend Development with Node.js and Express (30 Minutes)**:
-  - **Learn Node.js and Express fundamentals and complete tutorials.**
-  - **Work on building RESTful APIs.**
+#### December
+- **Objective:** Integrate advanced techniques for more complex applications.
+- **Topics:** Reactive programming (Angular RxJS), middleware in Go, state management (Redux in JS), and TypeScript decorators.
 
-- **Relational and Non-Relational Databases (30 Minutes)**:
-  - **Study SQL for relational databases and NoSQL concepts.**
-  - **Engage with database projects to practice CRUD operations.**
+#### January
+- **Objective:** Focus on real-time data handling and app optimization.
+- **Topics:** WebSockets, caching strategies, optimization practices in Angular and Go.
 
----
+#### February
+- **Objective:** Project-focused application of skills.
+- **Topics:** Develop and deploy a small-scale app utilizing Angular, Go, and TypeScript.
 
-## Phase 3: Deployment DevOps Learning Plan (May 1 - June 30, 2025)
-
-**Duration**: May 1, 2025 - June 30, 2025  
-**Daily Commitment**: **3 hours** (AWS certifications + Docker + Kubernetes)
-
-### Daily Schedule:
-- **AWS Certification Preparation (1 hour)**:
-  - **Focus on one certification at a time (e.g., Associate Developer, Associate SysOps, Specialty Security).**
-  - **Study core concepts, engage in hands-on labs, and complete practice questions.**
-
-- **Docker Mastery (1 hour)**:
-  - **Learn Docker fundamentals, container orchestration, and deployment practices.**
-  - **Engage in hands-on labs to build and manage containers.**
-
-- **Kubernetes Mastery (1 hour)**:
-  - **Study Kubernetes architecture, components, and deployment strategies.**
-  - **Practice setting up and managing Kubernetes clusters with hands-on labs.**
+#### March
+- **Objective:** Review and final assessments.
+- **Topics:** Comprehensive revision, troubleshooting, and optimization practices for production.
 
 ---
 
-## Progress Tracking and Reflection
-- **Daily Habit Tracker**: Use an app or planner to log daily activities.
-- **Weekly Reflection**: Assess what you learned, challenges faced, and areas for improvement.
-- **Monthly Review**: Check exam readiness, review materials, and identify weak areas.
+### Security Learning Course (Tuesday)
+
+#### November
+- **Objective:** Gain a solid foundation in cybersecurity principles.
+- **Topics:** Cyber hygiene, authentication/authorization, cryptography basics, network security.
+
+#### December
+- **Objective:** Understand and apply web security and Junior Penetration Tester principles.
+- **Topics:** OWASP Top 10, client-side vulnerabilities, secure API design, and token-based authentication.
+
+#### January
+- **Objective:** Dive deeper into vulnerability analysis.
+- **Topics:** Vulnerability scanning, exploit research, CWE and CVE analysis, and patch management.
+
+#### February
+- **Objective:** Comprehensive security review and hands-on practice.
+- **Topics:** Simulated attack scenarios, defense strategies, and security audit practices.
+
+#### March
+- **Objective:** Learn and apply advanced security measures.
+- **Topics:** Advanced penetration techniques, zero-day identification, risk assessment frameworks, threat modeling.
+
+---
+
+### Penetration Testing Course (Wednesday)
+
+#### November
+- **Objective:** Build foundational knowledge in pre-security.
+- **Topics:** Networking basics, Linux command-line essentials, secure coding practices.
+
+#### December
+- **Objective:** Advance to complex penetration testing techniques.
+- **Topics:** Network mapping, social engineering, payload development, encryption analysis.
+
+#### January
+- **Objective:** Conduct complete penetration tests from start to finish.
+- **Topics:** Target discovery, vulnerability exploitation, pivoting, maintaining access.
+
+#### February
+- **Objective:** Conduct final reviews and troubleshoot common issues.
+- **Topics:** Post-test cleanup, documentation standards, and ethical considerations.
+
+#### March
+- **Objective:** Focus on advanced techniques and real-world application.
+- **Topics:** Cloud security penetration, container exploitation, lateral movement strategies.
+
+---
+
+### OSCP Preparation Course (Thursday)
+
+#### November
+- **Objective:** Introduction to OSCP skills and basic tools.
+- **Topics:** Nmap, Burp Suite, Metasploit basics, SQL injection fundamentals.
+
+#### December
+- **Objective:** Gather and analyze information for effective penetration testing.
+- **Topics:** OSINT techniques, vulnerability research, initial access methods.
+
+#### January
+- **Objective:** Focus on exploitation techniques.
+- **Topics:** Shellcoding, buffer overflow, privilege escalation, payload encoding.
+
+#### February
+- **Objective:** Review post-exploitation and web testing methods.
+- **Topics:** Pivoting, backdoor creation, web app security testing, remote code execution.
+
+#### March
+- **Objective:** Comprehensive review for OSCP exam readiness.
+- **Topics:** Practice labs, time management strategies, troubleshooting under pressure.
+
+---
+
+### Google Cloud Learning Course (Friday)
+
+#### November - February 15, 2025
+- **Objective:** Achieve Google Cloud Certifications through hands-on labs and theory.
+- **Topics:** Cloud fundamentals, IAM, networking on Google Cloud, data storage and security.
+
+#### Post-February 15, 2025 (Switch to Research)
+- **Objective:** Investigate emerging technologies and new research in cloud security.
+- **Topics:** Multi-cloud security, infrastructure as code, cloud-native security tools, and policy enforcement.
+
+---
+
+### Practical Application Course (Weekend)
+
+- **Objective:** Reinforce concepts from the week, focusing on project execution and exam preparation.
+- **Structure:**
+  - **Project Development:** Apply weekly learnings in hands-on projects.
+  - **Exam Preparation:** Dedicated review sessions for certifications scheduled in February and March.
+
+---
+
+## Certification Timeline
+
+- **February 15, 2025:** Google Cloud Certifications
+- **February 28, 2025:** Certified Penetration Tester (CPT) Exam
+- **March 15, 2025:** CompTIA PenTest+ Exam
+- **March 30, 2025:** OSCP Exam
+
+---
+
+This detailed structure ensures that each course leads toward certification and mastery by April 1, 2025. Thank you for visiting my GitHub profile, and I appreciate your support as I work towards achieving my goals!
