@@ -1,144 +1,41 @@
-# Learning and Development Journey
+# Hi there 👋, I'm Panagiotis Lampros
+I'm an aspiring Cloud Security Penetration Tester with a passion for securing cloud environments and uncovering vulnerabilities. I'm currently on a dedicated learning journey to become an OSCP-certified professional.
 
-Welcome to my GitHub profile! I am currently pursuing an intensive learning plan focused on enhancing my skills in software engineering, cybersecurity, and cloud technologies. This document outlines my comprehensive learning plan from November 1, 2024, to April 1, 2025.
+## 🚀  My Learning Journey
 
-## Weekly Course Structure
+I'm actively building my skills in the following areas:
 
-- **Monday:** Software Engineering (Angular, Go, JavaScript, TypeScript)
-- **Tuesday:** Security Learning
-- **Wednesday:** Penetration Testing
-- **Thursday:** OSCP Preparation
-- **Friday:** Google Cloud Learning (switches to Research upon certification completion)
-- **Weekend:** Practical Application Course (Projects & Exam Preparation)
+* **Cloud Security:**  Deep diving into cloud security concepts, threats, and best practices.
+* **Penetration Testing:** Mastering penetration testing methodologies and techniques.
+* **Python for Security:**  Leveraging Python for security automation, scripting, and exploit development.
+* **OWASP Top 10:**  Understanding and exploiting common web application vulnerabilities.
+* **API Security:**  Creating secure APIs and identifying potential vulnerabilities.
+* **Docker and Kubernetes Security:**  Securing containerized environments and orchestration platforms.
 
----
+## 🛠️ Tools and Technologies
 
-## Detailed Course Objectives
+I'm gaining proficiency in a variety of tools and technologies, including:
 
-### Software Engineering Course (Monday)
+* **Cloud Platforms:** AWS, Azure, GCP
+* **Penetration Testing Frameworks:** Metasploit, Nmap, Burp Suite
+* **Security Tools:** OWASP ZAP, Nessus, Wireshark
+* **Programming Languages:** Python (Scapy, Requests, Impacket)
+* **Containerization:** Docker, Kubernetes
 
-#### November
-- **Objective:** Establish fundamentals of Angular, Go, JavaScript, and TypeScript.
-- **Topics:** Language basics, component-based design (Angular), simple API interactions, and TypeScript type-safety.
+## 🎯  My Goals
 
-#### December
-- **Objective:** Integrate advanced techniques for more complex applications.
-- **Topics:** Reactive programming (Angular RxJS), middleware in Go, state management (Redux in JS), and TypeScript decorators.
+* Achieve OSCP certification by May 30th, 2025.
+* Build a strong portfolio of penetration testing projects.
+* Contribute to the security community through responsible disclosure and knowledge sharing.
 
-#### January
-- **Objective:** Focus on real-time data handling and app optimization.
-- **Topics:** WebSockets, caching strategies, optimization practices in Angular and Go.
+## 📚  Currently Learning
 
-#### February
-- **Objective:** Project-focused application of skills.
-- **Topics:** Develop and deploy a small-scale app utilizing Angular, Go, and TypeScript.
+* **HackTheBox:**  Progressing through the "Penetration Tester" job role path.
+* **TryHackMe:**  Completing various learning paths focused on cybersecurity and penetration testing.
+* **OSCP Preparation:**  Actively preparing for the OSCP exam through dedicated labs and practice.
 
-#### March
-- **Objective:** Review and final assessments.
-- **Topics:** Comprehensive revision, troubleshooting, and optimization practices for production.
+## 🔗 Let's Connect
 
----
+* **LinkedIn:** https://www.linkedin.com/in/panagiotis-lampros-7b6716331/
 
-### Security Learning Course (Tuesday)
-
-#### November
-- **Objective:** Gain a solid foundation in cybersecurity principles.
-- **Topics:** Cyber hygiene, authentication/authorization, cryptography basics, network security.
-
-#### December
-- **Objective:** Understand and apply web security and Junior Penetration Tester principles.
-- **Topics:** OWASP Top 10, client-side vulnerabilities, secure API design, and token-based authentication.
-
-#### January
-- **Objective:** Dive deeper into vulnerability analysis.
-- **Topics:** Vulnerability scanning, exploit research, CWE and CVE analysis, and patch management.
-
-#### February
-- **Objective:** Comprehensive security review and hands-on practice.
-- **Topics:** Simulated attack scenarios, defense strategies, and security audit practices.
-
-#### March
-- **Objective:** Learn and apply advanced security measures.
-- **Topics:** Advanced penetration techniques, zero-day identification, risk assessment frameworks, threat modeling.
-
----
-
-### Penetration Testing Course (Wednesday)
-
-#### November
-- **Objective:** Build foundational knowledge in pre-security.
-- **Topics:** Networking basics, Linux command-line essentials, secure coding practices.
-
-#### December
-- **Objective:** Advance to complex penetration testing techniques.
-- **Topics:** Network mapping, social engineering, payload development, encryption analysis.
-
-#### January
-- **Objective:** Conduct complete penetration tests from start to finish.
-- **Topics:** Target discovery, vulnerability exploitation, pivoting, maintaining access.
-
-#### February
-- **Objective:** Conduct final reviews and troubleshoot common issues.
-- **Topics:** Post-test cleanup, documentation standards, and ethical considerations.
-
-#### March
-- **Objective:** Focus on advanced techniques and real-world application.
-- **Topics:** Cloud security penetration, container exploitation, lateral movement strategies.
-
----
-
-### OSCP Preparation Course (Thursday)
-
-#### November
-- **Objective:** Introduction to OSCP skills and basic tools.
-- **Topics:** Nmap, Burp Suite, Metasploit basics, SQL injection fundamentals.
-
-#### December
-- **Objective:** Gather and analyze information for effective penetration testing.
-- **Topics:** OSINT techniques, vulnerability research, initial access methods.
-
-#### January
-- **Objective:** Focus on exploitation techniques.
-- **Topics:** Shellcoding, buffer overflow, privilege escalation, payload encoding.
-
-#### February
-- **Objective:** Review post-exploitation and web testing methods.
-- **Topics:** Pivoting, backdoor creation, web app security testing, remote code execution.
-
-#### March
-- **Objective:** Comprehensive review for OSCP exam readiness.
-- **Topics:** Practice labs, time management strategies, troubleshooting under pressure.
-
----
-
-### Google Cloud Learning Course (Friday)
-
-#### November - February 15, 2025
-- **Objective:** Achieve Google Cloud Certifications through hands-on labs and theory.
-- **Topics:** Cloud fundamentals, IAM, networking on Google Cloud, data storage and security.
-
-#### Post-February 15, 2025 (Switch to Research)
-- **Objective:** Investigate emerging technologies and new research in cloud security.
-- **Topics:** Multi-cloud security, infrastructure as code, cloud-native security tools, and policy enforcement.
-
----
-
-### Practical Application Course (Weekend)
-
-- **Objective:** Reinforce concepts from the week, focusing on project execution and exam preparation.
-- **Structure:**
-  - **Project Development:** Apply weekly learnings in hands-on projects.
-  - **Exam Preparation:** Dedicated review sessions for certifications scheduled in February and March.
-
----
-
-## Certification Timeline
-
-- **February 15, 2025:** Google Cloud Certifications
-- **February 28, 2025:** Certified Penetration Tester (CPT) Exam
-- **March 15, 2025:** CompTIA PenTest+ Exam
-- **March 30, 2025:** OSCP Exam
-
----
-
-This detailed structure ensures that each course leads toward certification and mastery by April 1, 2025. Thank you for visiting my GitHub profile, and I appreciate your support as I work towards achieving my goals!
+I'm always eager to connect with fellow security enthusiasts and learn from others in the field. Feel free to reach out!
