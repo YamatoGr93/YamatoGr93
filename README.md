@@ -1,38 +1,22 @@
 # Hi there 👋, I'm Panagiotis Lampros
-I'm an aspiring Cloud Security Penetration Tester with a passion for securing cloud environments and uncovering vulnerabilities. I'm currently on a dedicated learning journey to become an OSCP-certified professional.
 
-## 🚀  My Learning Journey
+I'm currently pursuing a mastery track in DevSecOps & Security Engineering with a focus on Go, cloud technologies (AWS), and cybersecurity. I'm dedicated to learning and growing in this exciting field.
 
-I'm actively building my skills in the following areas:
+## 🚀 My Learning Journey
 
-* **Cloud Security:**  Deep diving into cloud security concepts, threats, and best practices.
-* **Penetration Testing:** Mastering penetration testing methodologies and techniques.
-* **Python for Security:**  Leveraging Python for security automation, scripting, and exploit development.
-* **OWASP Top 10:**  Understanding and exploiting common web application vulnerabilities.
-* **API Security:**  Creating secure APIs and identifying potential vulnerabilities.
-* **Docker and Kubernetes Security:**  Securing containerized environments and orchestration platforms.
+I'm actively building my skills in these core areas:
 
-## 🛠️ Tools and Technologies
+* **Go Programming:** Mastering Go for web development, APIs, and concurrent applications.
+* **AWS Cloud:** Gaining deep expertise in AWS services, architecture, and security best practices.
+* **Docker/Kubernetes:** Mastering containerization technologies for building and deploying secure applications.
+* **Penetration Testing & Security:** Developing penetration testing skills and understanding security vulnerabilities.
 
-I'm gaining proficiency in a variety of tools and technologies, including:
+## 🎯 My Goals
 
-* **Cloud Platforms:** AWS, Azure, GCP
-* **Penetration Testing Frameworks:** Metasploit, Nmap, Burp Suite
-* **Security Tools:** OWASP ZAP, Nessus, Wireshark
-* **Programming Languages:** Python (Scapy, Requests, Impacket)
-* **Containerization:** Docker, Kubernetes
-
-## 🎯  My Goals
-
-* Achieve OSCP certification by May 30th, 2025.
-* Build a strong portfolio of penetration testing projects.
-* Contribute to the security community through responsible disclosure and knowledge sharing.
-
-## 📚  Currently Learning
-
-* **HackTheBox:**  Progressing through the "Penetration Tester" job role path.
-* **TryHackMe:**  Completing various learning paths focused on cybersecurity and penetration testing.
-* **OSCP Preparation:**  Actively preparing for the OSCP exam through dedicated labs and practice.
+* Achieve mastery in DevSecOps and Security Engineering.
+* Obtain relevant certifications (AWS, Docker, Kubernetes).
+* Build a strong portfolio of projects.
+* Contribute to the security community.
 
 ## 🔗 Let's Connect
 
