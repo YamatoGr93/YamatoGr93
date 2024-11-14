@@ -1,25 +1,37 @@
-# Hi there 👋, I'm Panagiotis Lampros
+Here's an updated version:
 
-I'm currently pursuing a mastery track in DevSecOps & Security Engineering with a focus on Go, cloud technologies (AWS), and cybersecurity. I'm dedicated to learning and growing in this exciting field.
+Hi there 👋, I'm Panagiotis Lampros
 
-## 🚀 My Learning Journey
+I'm currently on a mission to become a skilled Security Engineer and Penetration Tester, combining my passion for cybersecurity with a strong foundation in DevSecOps and full-stack web app development.
 
-I'm actively building my skills in these core areas:
+🚀 My Learning Journey
 
-* **Go Programming:** Mastering Go for web development, APIs, and concurrent applications.
-* **AWS Cloud:** Gaining deep expertise in AWS services, architecture, and security best practices.
-* **Docker/Kubernetes:** Mastering containerization technologies for building and deploying secure applications.
-* **Penetration Testing & Security:** Developing penetration testing skills and understanding security vulnerabilities.
+I'm actively building expertise in these key areas:
 
-## 🎯 My Goals
+    Security Engineering and Penetration Testing: Mastering techniques to identify and exploit vulnerabilities, and designing secure systems.
+    DevSecOps: Integrating security practices throughout the software development lifecycle.
+    Go Programming: Leveraging Go for building secure and efficient back-end systems.
+    AWS Cloud: Deepening my understanding of AWS services, architecture, and security best practices.
+    Docker/Kubernetes: Mastering containerization for deploying and scaling secure applications.
+    Full-Stack Web App Development: Building secure and interactive web applications using JavaScript, React, Next.js, Node.js, and Express.
 
-* Achieve mastery in DevSecOps and Security Engineering.
-* Obtain relevant certifications (AWS, Docker, Kubernetes).
-* Build a strong portfolio of projects.
-* Contribute to the security community.
+🎯 My Goals
 
-## 🔗 Let's Connect
+    Become a proficient Security Engineer and Penetration Tester.
+    Obtain relevant certifications (AWS, OSCP, CEH).
+    Develop a strong portfolio of security-focused projects, including full-stack web apps with robust security features.
+    Contribute to the security community through research, bug bounties, and open-source projects.
 
-* **LinkedIn:** https://www.linkedin.com/in/panagiotis-lampros-7b6716331/
+🔗 Let's Connect
 
-I'm always eager to connect with fellow security enthusiasts and learn from others in the field. Feel free to reach out!
+LinkedIn: [https://www.linkedin.com/in/panagiotis-lampros-7b6716331/](https://www.linkedin.com/in/panagiotis-lampros-7b6716331/)
+
+I'm always eager to connect with fellow security enthusiasts, developers, and pentesters. Feel free to reach out!
+
+Key changes
+
+    Emphasis on security roles: Clearly states your aspirations to become a Security Engineer and Penetration Tester.
+    Web app development focus: Highlights your chosen tech stack (JavaScript, React, Next.js, Node.js, Express) for building secure web apps.
+    Security-focused goals: Aligns your goals with your security focus, including relevant certifications and projects.
+
+This updated profile effectively communicates your skills, goals, and passion for cybersecurity and web app development.
