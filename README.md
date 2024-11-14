@@ -27,11 +27,3 @@ I'm actively building expertise in these key areas:
 LinkedIn: [https://www.linkedin.com/in/panagiotis-lampros-7b6716331/](https://www.linkedin.com/in/panagiotis-lampros-7b6716331/)
 
 I'm always eager to connect with fellow security enthusiasts, developers, and pentesters. Feel free to reach out!
-
-Key changes
-
-    Emphasis on security roles: Clearly states your aspirations to become a Security Engineer and Penetration Tester.
-    Web app development focus: Highlights your chosen tech stack (JavaScript, React, Next.js, Node.js, Express) for building secure web apps.
-    Security-focused goals: Aligns your goals with your security focus, including relevant certifications and projects.
-
-This updated profile effectively communicates your skills, goals, and passion for cybersecurity and web app development.
