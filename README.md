@@ -1,5 +1,3 @@
-Here's an updated version:
-
 Hi there 👋, I'm Panagiotis Lampros
 
 I'm currently on a mission to become a skilled Security Engineer and Penetration Tester, combining my passion for cybersecurity with a strong foundation in DevSecOps and full-stack web app development.
