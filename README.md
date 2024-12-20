@@ -1,27 +1,32 @@
-Hi there 👋, I'm Panagiotis Lampros
+Panagiotis Lampros
 
-I'm currently on a mission to become a skilled Security Engineer and Penetration Tester, combining my passion for cybersecurity with a strong foundation in DevSecOps and full-stack web app development.
+Location: Athens, Greece
+Email: yamatoGr93@proton.me
+GitHub: github.com/YamatoGr93
+LinkedIn: linkedin.com/in/panagiotis-lampros-7b6716331/
+About Me
 
-🚀 My Learning Journey
+I am Panagiotis Lampros, a cybersecurity enthusiast actively transitioning from a career in accounting and finance into ethical hacking and penetration testing. My goal is to secure the Offensive Security Certified Professional (OSCP) certification by March 2025 and pursue a PhD in Cybersecurity in the United States.
 
-I'm actively building expertise in these key areas:
+I have a Bachelor's Degree in Accounting & Finance from the University of Patras and am currently studying for a Master's Degree in Public Management and e-Governance at the Hellenic Open University. My decision to switch careers was driven by my passion for cybersecurity, problem-solving, and the academic rigor of this field.
+Areas of Expertise
 
-    Security Engineering and Penetration Testing: Mastering techniques to identify and exploit vulnerabilities, and designing secure systems.
-    DevSecOps: Integrating security practices throughout the software development lifecycle.
-    Go Programming: Leveraging Go for building secure and efficient back-end systems.
-    AWS Cloud: Deepening my understanding of AWS services, architecture, and security best practices.
-    Docker/Kubernetes: Mastering containerization for deploying and scaling secure applications.
-    Full-Stack Web App Development: Building secure and interactive web applications using JavaScript, React, Next.js, Node.js, and Express.
+    Penetration Testing:
+    Hands-on experience in XSS, SQL Injection, and other OWASP Top 10 vulnerabilities, with a focus on tools like Burp Suite, Nmap, and custom Go tools.
+    Web Development & Security:
+    Building secure, scalable web applications using Go, Docker, Kubernetes, and AWS.
+    Cloud Security:
+    AWS Certified Cloud Practitioner with a focus on implementing and testing secure cloud solutions.
 
-🎯 My Goals
+Current Goals
 
-    Become a proficient Security Engineer and Penetration Tester.
-    Obtain relevant certifications (AWS, OSCP, CEH).
-    Develop a strong portfolio of security-focused projects, including full-stack web apps with robust security features.
-    Contribute to the security community through research, bug bounties, and open-source projects.
+    Certifications: Preparing for OSCP certification in March 2025.
+    Bug Bounty: Enhancing skills in XSS and SQLi through real-world bug bounty programs.
+    Open-Source Contribution: Building tools and apps showcasing my expertise in cybersecurity and cryptography.
+    Academic Development: Pursuing advanced research in cybersecurity while transitioning into a PhD program in the United States.
 
-🔗 Let's Connect
+Contact
 
-LinkedIn: [https://www.linkedin.com/in/panagiotis-lampros-7b6716331/](https://www.linkedin.com/in/panagiotis-lampros-7b6716331/)
-
-I'm always eager to connect with fellow security enthusiasts, developers, and pentesters. Feel free to reach out!
+    Email: yamatoGr93@proton.me
+    GitHub: github.com/YamatoGr93
+    LinkedIn: linkedin.com/in/panagiotis-lampros-7b6716331/
