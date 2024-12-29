@@ -1,8 +1,5 @@
 Panagiotis Lampros:
-  Location: Athens, Greece
-  Email: yamatoGr93@proton.me
-  GitHub: https://github.com/YamatoGr93
-  LinkedIn: https://linkedin.com/in/panagiotis-lampros-7b6716331
+
 
 About Me:
   I am Panagiotis Lampros, a cybersecurity enthusiast transitioning from a career in accounting and finance into ethical hacking and penetration testing. My ultimate goal is to establish myself as a successful self-employed bug bounty hunter, leveraging my expertise to identify vulnerabilities and improve web application security.
